@@ -1,7 +1,4 @@
 # calculator
-Certainly! Here's a description of the provided Python calculator code:
-
-This is a simple command-line calculator program written in Python. It allows you to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
 The calculator operates in a loop, repeatedly displaying a menu of options and accepting user input until the user chooses to quit the program. Here's how the calculator works:
 
